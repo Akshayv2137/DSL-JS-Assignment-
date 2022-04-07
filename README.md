@@ -1,2 +1,2 @@
 # DSL-JS-Assignment-
-Submitting  JavaS
+Submitting  Javascript Assignment
